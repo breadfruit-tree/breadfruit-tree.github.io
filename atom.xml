@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-12-12T09:43:18.582Z</updated>
+  <updated>2023-12-13T09:25:44.086Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>闪亮的西瓜</title>
+    <link href="http://example.com/2023/12/13/%E9%97%AA%E4%BA%AE%E7%9A%84%E8%A5%BF%E7%93%9C/"/>
+    <id>http://example.com/2023/12/13/%E9%97%AA%E4%BA%AE%E7%9A%84%E8%A5%BF%E7%93%9C/</id>
+    <published>2023-12-13T09:20:41.000Z</published>
+    <updated>2023-12-13T09:25:44.086Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;闪亮的西瓜&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&quot;https://s2.loli.net/2023/12/13/Vn758scZBFJXiTr.png&quot; alt=&quot;截屏2023-12-12</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>第一篇文章</title>
