@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-12-14T01:57:10.727Z</updated>
+  <updated>2023-12-15T10:10:22.963Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>今天是周五吗?</title>
+    <link href="http://example.com/2023/12/15/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%91%A8%E4%BA%94%E5%90%97/"/>
+    <id>http://example.com/2023/12/15/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%91%A8%E4%BA%94%E5%90%97/</id>
+    <published>2023-12-15T09:58:23.000Z</published>
+    <updated>2023-12-15T10:10:22.963Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;!-- HTML 和 JavaScript --&gt;
+&lt;div id=&quot;dateMessage&quot;&gt;&lt;/div&gt;
+
+&lt;script&gt;
+    document.addEventListener(&#39;DOMContentLoaded&#39;, function () {
+       </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>原神启动.md</title>

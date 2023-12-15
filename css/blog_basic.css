@@ -13,6 +13,11 @@ pre {
 	font-family: 'Roboto Mono','Lucida Console','Trebuchet MS','Courier New', Monaco, courier,'PingFang SC','Hiragino Sans GB','Microsoft Jhenghei','Microsoft YaHei', monospace!important
 }
 
+#dateMessage {
+  font-size: 50px;
+  font-weight: bold;
+}
+
 figure.highlight {
 	position: relative!important;
 	margin: 1em 0!important;
