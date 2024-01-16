@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-01-12T10:45:23.339Z</updated>
+  <updated>2024-01-16T02:44:46.879Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>直播源探索</title>
+    <link href="http://example.com/2024/01/16/%E7%9B%B4%E6%92%AD%E6%BA%90%E6%8E%A2%E7%B4%A2/"/>
+    <id>http://example.com/2024/01/16/%E7%9B%B4%E6%92%AD%E6%BA%90%E6%8E%A2%E7%B4%A2/</id>
+    <published>2024-01-16T02:18:46.000Z</published>
+    <updated>2024-01-16T02:44:46.879Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;刚刚接触到，还没跑通，刚刚了解到一些概念，例如：m3u、epg、xmltv等等&lt;/p&gt;
+&lt;p&gt;目前主要是一个&lt;a href=&quot;https://github.com/biancangming/wtv&quot;&gt;github&lt;/a&gt;项目&lt;/p&gt;
+&lt;p&gt;资源：&lt;br&gt;软件下载地址&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>金钱世界是怎样运行的--转载</title>
